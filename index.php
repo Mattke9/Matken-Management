@@ -4,6 +4,6 @@
     <title>Matken Management</title>
   </head>
 <body>
-  <h1>Welcome to Matken</h1>
+  <h1>Welcome to Matken Management</h1>
 </body>
 </html>
